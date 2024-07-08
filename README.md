@@ -1,7 +1,14 @@
 # FetchExercise
 
-This is a Maven Project. I recommend using the IntelliJ IDE to run the script as Maven is bundled with their IDE.
+I recommend using the IntelliJ IDE to run the script as Maven is bundled with their IDE.
 
+Link to install IntelliJ IDEA Community version: https://www.jetbrains.com/idea/download/?section=windows
+# Project Details
+Language: Java
+
+Testing Framework: Selenium
+
+Build Automation Tool: Maven
 
 ## Running the script
 1. Import project into IDE.
